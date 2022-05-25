@@ -1,0 +1,45 @@
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.exe
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.deps.json
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.runtimeconfig.json
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.dll
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.pdb
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.csproj.AssemblyReference.cache
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.AssemblyInfoInputs.cache
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.AssemblyInfo.cs
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.csproj.CoreCompileInputs.cache
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.dll
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/refint/Assignment 1.dll
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.pdb
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.genruntimeconfig.cache
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/Assignment 1/obj/Debug/net6.0/ref/Assignment 1.dll
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.csproj.AssemblyReference.cache
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.AssemblyInfoInputs.cache
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.AssemblyInfo.cs
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.csproj.CoreCompileInputs.cache
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.dll
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/refint/Assignment 1.dll
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.pdb
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.exe
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.deps.json
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.runtimeconfig.json
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.dll
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.pdb
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.genruntimeconfig.cache
+D:/Dropbox/Document/美國工作/ICC/Antra/Assignment/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/ref/Assignment 1.dll
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.deps.json
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.runtimeconfig.json
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.dll
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/bin/Debug/net6.0/Assignment 1.pdb
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.csproj.AssemblyReference.cache
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.AssemblyInfoInputs.cache
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.AssemblyInfo.cs
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.csproj.CoreCompileInputs.cache
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.dll
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/refint/Assignment 1.dll
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.pdb
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/Assignment 1.genruntimeconfig.cache
+/Users/tongyuejia/Desktop/Antra-main/C#/Assignment 1/Assignment 1/obj/Debug/net6.0/ref/Assignment 1.dll
